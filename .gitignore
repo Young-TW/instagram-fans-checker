@@ -1,12 +1,13 @@
 *.html
 *.toml
 
-/build
-/dist
+build/
+dist/
 
-/.vscode
-/.idea
-/.cache
+.vscode/
+.idea/
+.cache/
+.venv/
 
 *.DS_Store
 
